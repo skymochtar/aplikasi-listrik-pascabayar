@@ -1,6 +1,5 @@
----
-
 ## 🎬 Demo Video
 
-🎉 Kamu bisa lihat demo aplikasi ini langsung di TikTok:  
-🔗 [https://vt.tiktok.com/ZSSNPAY7f/](https://vt.tiktok.com/ZSSNPAY7f/)
+Lihat demo penggunaan aplikasi Animefy Me di:
+👉 [TikTok](https://vt.tiktok.com/ZSSNPAY7f/)  
+👉 [YouTube](https://youtu.be/EDr8rncbaR0)
